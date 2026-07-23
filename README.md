@@ -1,2 +1,4 @@
 # new_idear_collector
-AI 理解聊多了后基于恐惧而建的库，目的是为了实现持续供养AI，该咋弄，怎么实现还没想好
+企业智能体：基于新版graph的概念：agent time（planer、workflow engine。。。）+agents + mcp tools + 统一知识库检索（SQL 、BM25、向量库、图）
+桌面版个人办公超级应用
+双模式驱动的自动化测试（视觉坐标+元素查找操作）
